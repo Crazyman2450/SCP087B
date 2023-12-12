@@ -1,0 +1,38 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Jamie/Documents/Unreal Projects/SCP087B/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/Jamie/Documents/Unreal Projects/SCP087B/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset",
+				"C:/Users/Jamie/Documents/Unreal Projects/SCP087B/Content/BP/BP_LevelStart.uasset",
+				"C:/Users/Jamie/Documents/Unreal Projects/SCP087B/Content/BP/BP_LargeRoom.uasset",
+				"C:/Users/Jamie/Documents/Unreal Projects/SCP087B/Content/BP/SCP_Gamemode.uasset",
+				"C:/Users/Jamie/Documents/Unreal Projects/SCP087B/Content/BP/SCPGameInstance.uasset",
+				"C:/Users/Jamie/Documents/Unreal Projects/SCP087B/Content/Map/Main.umap",
+				"C:/Users/Jamie/Documents/Unreal Projects/SCP087B/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/Jamie/Documents/Unreal Projects/SCP087B/Content/BP/BP_FloorSign.uasset",
+				"C:/Users/Jamie/Documents/Unreal Projects/SCP087B/Content/BP/BP_Corridor_Left.uasset",
+				"C:/Users/Jamie/Documents/Unreal Projects/SCP087B/Content/BP/BP_Corridor_Right_MAINTILE.uasset",
+				"C:/Users/Jamie/Documents/Unreal Projects/SCP087B/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/DV/HJTAA1CHIOWW5DJ1F88OHZ.uasset",
+				"C:/Users/Jamie/Documents/Unreal Projects/SCP087B/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/80/QQN0UFFAA797E1UT4IMD29.uasset",
+				"C:/Users/Jamie/Documents/Unreal Projects/SCP087B/Content/Map/Test.umap",
+				"C:/Users/Jamie/Documents/Unreal Projects/SCP087B/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Jamie/Documents/Unreal Projects/SCP087B/Content/BP/JumpScares/BP_JumpscareMain.uasset",
+				"C:/Users/Jamie/Documents/Unreal Projects/SCP087B/Content/BP/JumpScares/BP_JumpscareWindow.uasset",
+				"C:/Users/Jamie/Documents/Unreal Projects/SCP087B/Content/BP/JumpScares/BP_JumpscareCorridor.uasset",
+				"C:/Users/Jamie/Documents/Unreal Projects/SCP087B/Content/BP/BP_Corridor_Right_Jumscare.uasset",
+				"C:/Users/Jamie/Documents/Unreal Projects/SCP087B/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/NG/UR2NK4OK3ZO5UDR4YGWSMG.uasset",
+				"C:/Users/Jamie/Documents/Unreal Projects/SCP087B/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/P4/1NITN1IWPCNXMRC3KWB82N.uasset",
+				"C:/Users/Jamie/Documents/Unreal Projects/SCP087B/Content/SamExport/BP_CorridorLeft.uasset",
+				"C:/Users/Jamie/Documents/Unreal Projects/SCP087B/Content/SamExport/BP_CorridorRight.uasset",
+				"C:/Users/Jamie/Documents/Unreal Projects/SCP087B/Content/SamExport/StaticMesh.uasset",
+				"C:/Users/Jamie/Documents/Unreal Projects/SCP087B/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/JO/MTEDXHXYUPKEC9SEK43ZD9.uasset",
+				"C:/Users/Jamie/Documents/Unreal Projects/SCP087B/Content/BP/JumpScares/BP_Jumpscare1.uasset",
+				"C:/Users/Jamie/Documents/Unreal Projects/SCP087B/Content/BP/BP_Corridor_Right.uasset"
+			]
+		}
+	]
+}
